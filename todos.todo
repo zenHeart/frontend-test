@@ -1,0 +1,21 @@
+
+todos:
+    ☐ https://martinfowler.com/bliki/TestPyramid.html
+    ☐ 阅读 <https://danteyu.github.io/2017/10/21/teststrategy/>
+    ☐ 测试软件分类 [测试软件](https://amzotti.github.io/testing/2015/03/16/what-is-the-difference-between-a-test-runner-testing-framework-assertion-library-and-a-testing-plugin/)
+    ☐ 参看 <https://github.com/vuejs/vue-test-utils-jest-example> 完成 vue 测试环境搭建
+    ☐ 搞清楚 chai.true 的执行原理 <https://stackoverflow.com/questions/44756312/how-does-the-expect-to-be-true-work-in-chai>
+    ☐ 看完 <https://github.com/testdouble/contributing-tests/wiki>
+    ☐ 阅读 <https://github.com/CareMessagePlatform/jasmine-styleguide>
+    ☐ 阅读 gitlab 测试风格 <https://docs.gitlab.com/ee/development/testing_guide/frontend_testing.html>
+    ☐ 阅读 gitlab 测试标准和风格指南 <https://docs.gitlab.com/ee/development/testing_guide/>
+    ☐ wiki 软件测试 <https://en.wikipedia.org/wiki/Software_testing>
+    ☐ webdriver 和 devtools protocol 协议区别 <https://stacko
+    ☐ 测试级别的 [V-model](https://en.wikipedia.org/wiki/V-Model_(software_development))
+    ☐ 发现 `node --inspect-brk spy.js` 无法触发首行断点,必须手动设置 debugger 才有效,需查明原因
+
+
+plan:
+    ☐ 查看 UI 层面测试的解决方案  
+    ☐ 进一步改造示例,优化对相关概念的讲解
+    ☐ 添加测试覆盖率的详细示例 <http://www.ruanyifeng.com/blog/2015/06/istanbul.html>

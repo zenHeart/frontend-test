@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="begin"
+    errors="0" failures="0" hostname="" id="" package="begin" skipped="0"
+    tests="1" time="9.508" timestamp="">
+  
+    <testcase name="Demo test baidu" classname="begin" time="9.508" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
